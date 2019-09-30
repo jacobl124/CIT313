@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="Initializing blank project with data file" />
+    <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="Initializing blank project with data file">
+      <change afterPath="$PROJECT_DIR$/src/Data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +12,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RZIBI2DCJ4raCe23EOtrSygdq2" />
@@ -71,7 +69,6 @@
       <updated>1569868053180</updated>
       <workItem from="1569868054718" duration="133000" />
       <workItem from="1569868227078" duration="243000" />
-      <workItem from="1569869093017" duration="282000" />
     </task>
     <servers />
   </component>
