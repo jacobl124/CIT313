@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Box.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569868053180</updated>
       <workItem from="1569868054718" duration="133000" />
-      <workItem from="1569868227078" duration="1058000" />
+      <workItem from="1569868227078" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing blank project with data file">
       <created>1569868477667</created>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569869458945</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixing grammar">
+      <created>1569869532982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569869532982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initializing blank project with data file" />
     <MESSAGE value="Initializing Noah's branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initializing Noah's branch" />
+    <MESSAGE value="Fixing grammar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing grammar" />
   </component>
 </project>
