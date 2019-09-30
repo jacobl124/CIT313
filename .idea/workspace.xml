@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="Initializing blank project with data file">
-      <change afterPath="$PROJECT_DIR$/src/Data.js" afterDir="false" />
+    <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RZIBI2DCJ4raCe23EOtrSygdq2" />
@@ -67,8 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1569868053180</updated>
       <workItem from="1569868054718" duration="133000" />
-      <workItem from="1569868227078" duration="243000" />
+      <workItem from="1569868227078" duration="937000" />
     </task>
+    <task id="LOCAL-00001" summary="Initializing blank project with data file">
+      <created>1569868477667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569868477667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
