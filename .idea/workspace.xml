@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220582b3-9a70-4edf-a037-3b4ace4d041f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569868053180</updated>
       <workItem from="1569868054718" duration="133000" />
-      <workItem from="1569868227078" duration="937000" />
+      <workItem from="1569868227078" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing blank project with data file">
       <created>1569868477667</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569868477667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initializing Noah's branch">
+      <created>1569869458945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569869458945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initializing blank project with data file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initializing blank project with data file" />
+    <MESSAGE value="Initializing Noah's branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initializing Noah's branch" />
   </component>
 </project>
