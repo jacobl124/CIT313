@@ -3,11 +3,16 @@ import Nav from './components/Nav';
 
 
 function App() {
-  const [/*selectedType,*/ updateSelectedType] = React.useState('All');
+  const [selectedType, updateSelectedType] = React.useState('All');
+
+  function changeType(type){
+      updateSelectedType(type);
+  }
 
   return (
-    <div >
-        <Nav updateType={updateSelectedType}/>
+    <div>
+        {selectedType}
+        <Nav fnc={changeType}/>
     </div>
   );
 }
