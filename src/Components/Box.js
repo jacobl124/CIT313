@@ -2,13 +2,7 @@ import React from 'react';
 
 
 function Box(props) {
-
-    const styling = {
-        height:"100px",
-        minWidth:"100px",
-        border:"solid 2px"
-    };
-
+    
     const liStyle = {
         display: "inline-block",
         width: "100px",
