@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 
 
 function App() {
-  const [selectedType, updateSelectedType] = React.useState('All');
+  const [/*selectedType,*/ updateSelectedType] = React.useState('All');
 
   function changeType(type){
       updateSelectedType(type);
@@ -13,12 +13,6 @@ function App() {
   return (
     <div>
         <Nav fnc={changeType}/>
-        <br/>{selectedType}
-        <p>
-            p<br/>
-
-
-        </p>
     </div>
   );
 }
