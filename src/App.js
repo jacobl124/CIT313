@@ -7,12 +7,18 @@ function App() {
 
   function changeType(type){
       updateSelectedType(type);
+
   }
 
   return (
     <div>
-        {selectedType}
         <Nav fnc={changeType}/>
+        <br/>{selectedType}
+        <p>
+            p<br/>
+
+
+        </p>
     </div>
   );
 }
