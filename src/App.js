@@ -1,9 +1,9 @@
 import React from 'react';
+import Nav from './components/Nav';
 import logo from './logo.svg';
 import './App.css';
 import Box from "./Components/Box";
 import Wrapper from "./Components/Wrapper";
-import Nav from './components/Nav';
 
 function App() {
   const [/*selectedType,*/ updateSelectedType] = React.useState('All');
@@ -12,7 +12,6 @@ function App() {
       updateSelectedType(type);
 
   }
-  
   return (
     <div className="App">
       <Nav fnc={changeType}/>
