@@ -13,8 +13,8 @@ function Box(props) {
 
     return (
         <div>
+            <img src={props.img}/>
             <ul>
-                <li style={liStyle}><img src={props.img}/></li>
                 <li style={liStyle}>Name: {props.name}</li>
                 <li style={liStyle}>Category: {props.category}</li>
                 <li style={liStyle}>Value: {props.value}</li>
